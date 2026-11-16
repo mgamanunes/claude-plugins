@@ -1,5 +1,5 @@
 ---
-name: miguel-agentic-dev
+name: agent-dev
 description:
   Build a complex feature with Miguel's agentic method, which runs research, a
   reviewed plan, an approval gate, parallel and sequential coding streams each

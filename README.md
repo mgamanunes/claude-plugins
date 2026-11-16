@@ -5,7 +5,7 @@ A Claude Code plugin marketplace.
 | Plugin         | What it is                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | `session-cost` | Status line entry showing what the session has cost as a share of the subscription, beside its cost at API rates          |
-| `agentic-dev`  | The `miguel-agentic-dev` skill: research, a reviewed plan, an approval gate, coding streams each with a review–fix loop |
+| `agentic-dev`  | The `agent-dev` skill:       research, a reviewed plan, an approval gate, coding streams each with a review–fix loop |
 
 ## Install
 
