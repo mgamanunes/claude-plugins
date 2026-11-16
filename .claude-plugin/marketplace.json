@@ -1,6 +1,8 @@
 {
   "name": "miguel",
-  "owner": { "name": "Miguel" },
+  "owner": {
+    "name": "Miguel"
+  },
   "plugins": [
     {
       "name": "session-cost",
@@ -8,9 +10,9 @@
       "description": "Status line entry: what this session has cost as a share of the subscription, beside its cost at API rates"
     },
     {
-      "name": "agentic-dev",
-      "source": "./plugins/agentic-dev",
-      "description": "Miguel's agentic dev method: research, a reviewed plan, coding streams with review-fix loops"
+      "name": "miguel-dev-workflow",
+      "source": "./plugins/miguel-dev-workflow",
+      "description": "Miguel's development workflow skills"
     }
   ]
 }

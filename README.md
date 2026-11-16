@@ -5,14 +5,14 @@ A Claude Code plugin marketplace.
 | Plugin         | What it is                                                                                                                |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | `session-cost` | Status line entry showing what the session has cost as a share of the subscription, beside its cost at API rates          |
-| `agentic-dev`  | The `agent-dev` skill:       research, a reviewed plan, an approval gate, coding streams each with a review–fix loop |
+| `miguel-dev-workflow` | Development workflow skills. `build-feature`: research, a reviewed plan, an approval gate, coding streams each with a review–fix loop |
 
 ## Install
 
 ```sh
 claude plugin marketplace add mgamanunes/claude-plugins
 claude plugin install session-cost@miguel
-claude plugin install agentic-dev@miguel
+claude plugin install miguel-dev-workflow@miguel
 ```
 
 Run `/reload-plugins` in a session that is already open.
