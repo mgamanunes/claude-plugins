@@ -1,4 +1,4 @@
-# miguel-claude
+# claude-plugins
 
 A Claude Code plugin marketplace.
 
@@ -10,7 +10,7 @@ A Claude Code plugin marketplace.
 ## Install
 
 ```sh
-claude plugin marketplace add <owner>/miguel-claude
+claude plugin marketplace add mgamanunes/claude-plugins
 claude plugin install session-cost@miguel
 claude plugin install agentic-dev@miguel
 ```
