@@ -1,0 +1,19 @@
+{
+  "name": "session-cost",
+  "version": "0.1.0",
+  "description": "Status line entry: what this session has cost as a share of the subscription, beside its cost at API rates",
+  "userConfig": {
+    "monthlyPrice": {
+      "type": "number",
+      "title": "Subscription price",
+      "description": "What the subscription costs per month, in euros.",
+      "default": 180
+    },
+    "weeklyApiValue": {
+      "type": "number",
+      "title": "Weekly limit at API rates",
+      "description": "What a full weekly limit is worth at API rates, in US dollars. 0 measures it from usage instead.",
+      "default": 1600
+    }
+  }
+}
